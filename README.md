@@ -19,7 +19,6 @@ A passionate Flutter developer and educator with a Bachelor's degree in Computer
 - 💬 **Ask me about**: Flutter, Dart, Firebase, Clean Architecture, Bloc/Cubit, or mobile app development
 - 📫 **Reach me**: **amgonemilwork@gmail.com** 
 
-
 ---
 
 ## 📱 Published Applications
@@ -50,18 +49,49 @@ A passionate Flutter developer and educator with a Bachelor's degree in Computer
 **Mobile Development**  
 [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev) 
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>](https://dart.dev) 
+[<img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="swift" width="40" height="40"/>](https://developer.apple.com/swift/) 
+[<img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" alt="xcode" width="40" height="40"/>](https://developer.apple.com/xcode/) 
+[<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="ios" width="40" height="40"/>](https://developer.apple.com/ios/) 
+[<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>](https://developer.android.com/) 
+
+**Backend & Firebase**  
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/) 
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://figma.com)  
-
+[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>](https://cloud.google.com/) 
 **State Management & Architecture**  
-`Bloc` `Cubit` `Provider` `Clean Architecture` `MVVM` `SOLID Principles`
+`Bloc` `Cubit` `Provider` `GetX` `Riverpod` `Clean Architecture` `MVVM` `MVC` `SOLID Principles` `Design Patterns`
 
-**Backend & Data**  
-`REST APIs` `Firebase Auth` `Cloud Firestore` `Hive` `Secure Storage` `FCM`
+**Flutter Packages & Tools**  
+`Dio` `Retrofit` `GetIt` `Injectable` `Freezed` `Hive` `Drift` `GoRouter` `AutoRoute` `Flutter Hooks` `RxDart` `Cached Network Image` `Flutter Secure Storage` `Local Notifications` `FCM` `In-App Purchase` `Google Maps` `Geolocator`
 
-**Dev Tools & Deployment**  
+**Testing & Quality**  
+`Unit Testing` `Widget Testing` `Integration Testing` `Mockito` `BlocTest` `Flutter Lints` `Very Good Analysis`
+
+**Design & UI/UX**  
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://figma.com) 
+[<img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="xd" width="40" height="40"/>](https://www.adobe.com/products/xd.html) 
+[<img src="https://www.vectorlogo.zone/logos/skaborjakob/skaborjakob-icon.svg" alt="sketch" width="40" height="40"/>](https://www.sketch.com/) 
+`Material Design` `Cupertino` `Custom Animations` `Rive` `Lottie`
+
+**Dev Tools & CI/CD**  
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com) 
-`CI/CD` `App Store` `Google Play`
+[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>](https://github.com) 
+[<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>](https://gitlab.com) 
+[<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>](https://bitbucket.org) 
+[<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>](https://circleci.com) 
+[<img src="https://www.vectorlogo.zone/logos/caborlobo/caborlobo-icon.svg" alt="codemagic" width="40" height="40"/>](https://codemagic.io) 
+`GitHub Actions` `Fastlane` `App Store Connect` `Google Play Console` `TestFlight` `Firebase App Distribution`
+
+**IDEs & Editors**  
+[<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>](https://code.visualstudio.com/) 
+[<img src="https://resources.jetbrains.com/storage/products/android-studio/img/meta/android-studio_logo_300x300.png" alt="android-studio" width="40" height="40"/>](https://developer.android.com/studio) 
+`Xcode` `IntelliJ IDEA`
+
+**Other Tools**  
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com) 
+[<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>](https://www.json.org/) 
+[<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/>](https://slack.com) 
+[<img src="https://www.vectorlogo.zone/logos/traborjakob/traborjakob-icon.svg" alt="trello" width="40" height="40"/>](https://trello.com) 
+[<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>](https://www.atlassian.com/software/jira)
 
 ---
 
@@ -82,7 +112,7 @@ A passionate Flutter developer and educator with a Bachelor's degree in Computer
 - 📧 **Email**: [amgonemilwork@gmail.com](mailto:amgonemilwork@gmail.com)
 
 - 💼 **LinkedIn**: [linkedin.com/in/amgad-nady](https://www.linkedin.com/in/amgad-nady)
-- 🌐 **Portfolio**: [amg-portfoilo.web.app](https://amg2013.github.io/Amgad/)
+- 🌐 **Portfolio**: [amg2013.github.io/Amgad](https://amg2013.github.io/Amgad/)
 
 ---
 
