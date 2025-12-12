@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Flutter Developer | Mobile Development Instructor</h3>
 
 <p align="center">
-  <a href="https://amg-portfoilo.web.app/#/"><img src="https://img.shields.io/badge/Portfolio-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://amg2013.github.io/Amgad/"><img src="https://img.shields.io/badge/Portfolio-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/amgad-nady"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:amgonemilwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/amg2013"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -17,18 +17,8 @@ A passionate Flutter developer and educator with a Bachelor's degree in Computer
 - 🔭 **Currently**: Mobile Development Instructor at ITI & Flutter Developer at MIX-CODERS
 - 🌱 **Learning**: Advanced Flutter architecture (TDD, Clean Architecture) and performance optimization
 - 💬 **Ask me about**: Flutter, Dart, Firebase, Clean Architecture, Bloc/Cubit, or mobile app development
-- 📫 **Reach me**: **amgonemilwork@gmail.com** | **+20 106 947 3692**
+- 📫 **Reach me**: **amgonemilwork@gmail.com** 
 
----
-
-## 💼 Experience
-
-| Period | Role | Company | Highlights |
-|--------|------|---------|------------|
-| Jun 2025 – Sep 2025 | **Mobile Development Instructor** | ITI | Mentored 10+ students, led 3 junior teams to deploy production apps |
-| Mar 2025 – Oct 2025 | **Flutter Developer** | MIX-CODERS | Upgraded 30% legacy code, reduced warnings from 1.5K to 600 |
-| Mar 2024 – Feb 2025 | **Software Engineer & Co-Founder** | AnJ-Technologies | Led full product lifecycles, accelerated development by 25% |
-| Aug 2022 – Oct 2023 | **Flutter Developer** | Mosly Media Development | Improved app responsiveness by 30% using Bloc & DevTools |
 
 ---
 
@@ -90,9 +80,9 @@ A passionate Flutter developer and educator with a Bachelor's degree in Computer
 ## 📫 Contact
 
 - 📧 **Email**: [amgonemilwork@gmail.com](mailto:amgonemilwork@gmail.com)
-- 📱 **Phone**: +20 106 947 3692 | +20 127 653 3213
+
 - 💼 **LinkedIn**: [linkedin.com/in/amgad-nady](https://www.linkedin.com/in/amgad-nady)
-- 🌐 **Portfolio**: [amg-portfoilo.web.app](https://amg-portfoilo.web.app/#/)
+- 🌐 **Portfolio**: [amg-portfoilo.web.app](https://amg2013.github.io/Amgad/)
 
 ---
 
